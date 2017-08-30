@@ -3,3 +3,4 @@ Clients/osx/PiP/Pods
 Hub/bolt.db
 Hub/bin
 Podfile.lock
+Hub/pkg
