@@ -1,0 +1,5 @@
+Clients/tv/smarttv/packager/node_modules
+Clients/osx/PiP/Pods
+Hub/bolt.db
+Hub/bin
+Podfile.lock

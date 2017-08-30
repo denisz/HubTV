@@ -1,0 +1,16 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'PiP' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for PiP
+	pod 'PIPContainer'
+	pod 'Alamofire', '~> 4.3'
+    pod 'Bolts-Swift'
+    pod 'SwiftyJSON'
+    pod 'VLCKit', '3.0.0a24'
+    pod 'GzipSwift'
+
+end
